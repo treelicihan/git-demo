@@ -9,6 +9,5 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-<<<<<<< HEAD
-hello atguigu! hello git! master tet
-hello atguigu! hello git! hot-fix test
+hello atguigu! hello git! master tet2
+hello atguigu! hello git! 
